@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Mon, 28 Jun 2021 12:40:43 +0200
+Source: tpe
+Binary: tpe-dkms
+Architecture: source all
+Version: 2.0.3~git20181202-1
+Distribution: unstable
+Urgency: medium
+Maintainer: michal <m.ochminski@gmail.com>
+Changed-By: michal <m.ochminski@gmail.com>
+Description:
+ tpe-dkms   - <insert up to 60 chars description>
+Closes: 123456
+Changes:
+ tpe (2.0.3~git20181202-1) unstable; urgency=medium
+ .
+   * Initial release. (Closes: #123456)
+   * Upstream commit: e68ba85
+Checksums-Sha1:
+ f8902f5413d9f8af5de9168cdaa24e8df05bfdcb 980 tpe_2.0.3~git20181202-1.dsc
+ 5bf87ad20c400c2f55d21ef445690eb875343754 25616 tpe_2.0.3~git20181202.orig.tar.xz
+ 0c70ae5283fd9dbe8f13816a7bc85e246e09b64d 7516 tpe_2.0.3~git20181202-1.debian.tar.xz
+ c5578dc72ea3a38fc0d2a8b31992d7aaa40fb580 17632 tpe-dkms_2.0.3~git20181202-1_all.deb
+ f11e9264a0024bd75a0dbe4af47be2cfad497c18 5940 tpe_2.0.3~git20181202-1_amd64.buildinfo
+Checksums-Sha256:
+ 2be6c879698c75876d0b937301fab4ef48e129413b2fe14c9f561102c5b4a87f 980 tpe_2.0.3~git20181202-1.dsc
+ 394570923445f41c150bf9aa5587729ffc076d295d20a7811557e31f21049aa0 25616 tpe_2.0.3~git20181202.orig.tar.xz
+ e5f30840d16606a76db7a7682ff2b9bcdbe48b4add3ee65c94aed04529eea50e 7516 tpe_2.0.3~git20181202-1.debian.tar.xz
+ 662a2f1a051119517241f98534687b23c8424abd965b32a884ed427b4d5e6eb1 17632 tpe-dkms_2.0.3~git20181202-1_all.deb
+ 58712f807ce8ed026a71e4252556b9cab148932236edc0948e7cbe3f8174b24f 5940 tpe_2.0.3~git20181202-1_amd64.buildinfo
+Files:
+ eea8d7e483234be2bad3877b799c2197 980 unknown optional tpe_2.0.3~git20181202-1.dsc
+ 03b9d2857d10f5216b9a4ed1cce59c58 25616 unknown optional tpe_2.0.3~git20181202.orig.tar.xz
+ dfa989ad5d33687e92dc915afca1d3d9 7516 unknown optional tpe_2.0.3~git20181202-1.debian.tar.xz
+ e088f8cacbd5ecd7fa28a7c9124d6fcd 17632 unknown optional tpe-dkms_2.0.3~git20181202-1_all.deb
+ 68d3a4519ddd95df975c2fc19b66704a 5940 unknown optional tpe_2.0.3~git20181202-1_amd64.buildinfo
